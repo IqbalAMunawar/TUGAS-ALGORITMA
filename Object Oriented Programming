@@ -46,4 +46,4 @@ class motor(kendaraan):
 x1 = mobil('civic','rush')
 x2 = bus('malang times','bus pariwisata')
 x3 = sepeda('polygon','wimcycle')
-x4 = motor('ducati','vario')
+x4 = motor('ducati','ninja')
